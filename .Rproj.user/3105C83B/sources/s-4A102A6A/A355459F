@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1557569618049.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "931750943",
+    "id" : "A355459F",
+    "lastKnownWriteTime" : 1557254676,
+    "last_content_update" : 1557254676,
+    "path" : "~/summaryPack/R/summaryFunc.R",
+    "project_path" : "R/summaryFunc.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
